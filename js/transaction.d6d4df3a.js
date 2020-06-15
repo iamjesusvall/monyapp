@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["transaction"],{"0d43":function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("b-container",[e("router-view")],1)},r=[],u={methods:{goPrevious:function(){this.$router.go(-1)}}},i=u,s=e("2877"),c=Object(s["a"])(i,o,r,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=transaction.d6d4df3a.js.map
